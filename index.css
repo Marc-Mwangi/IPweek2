@@ -33,9 +33,18 @@ nav li {
 header {
     z-index: 4;
 }
-body {
+.page1 {
     background-color:rgb(223, 230,224) ;
+    position: relative;
+    z-index: -2;
+    top: -7px;
+    overflow: hidden;
 }
 nav { 
     display: flex;
+}
+.illustration {
+    position: relative;
+    top: 80px;
+    left: 150px;
 }
