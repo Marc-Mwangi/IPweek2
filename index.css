@@ -28,11 +28,14 @@ nav li {
     position: absolute;
     top: 0;
     right: 0;
-    z-index: 1;
+    z-index: -1;
 }
 header {
     z-index: 4;
 }
 body {
     background-color: rgb(223, 230, 224);
+}
+nav { 
+    display: flex;
 }
