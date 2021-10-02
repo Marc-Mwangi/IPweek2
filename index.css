@@ -19,3 +19,20 @@ nav li {
     text-align: center;
     font-family: Arial ;
 }
+#curve {
+    background-color: rgba(220, 250,112, 0.4);
+    width: 880px;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 0 0 60% 60%/0 0 100% 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+}
+header {
+    z-index: 4;
+}
+body {
+    background-color: rgb(223, 230, 224);
+}
