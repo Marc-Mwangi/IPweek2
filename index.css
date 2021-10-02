@@ -49,3 +49,12 @@ nav {
     left: 150px;
     float: left;
 }
+.page3 {
+    background-color: rgb(223, 230,224);
+    height: 500px;
+    width: 1100px;
+    position: relative;
+    top: 600px;
+    left: 150px;
+}
+    
