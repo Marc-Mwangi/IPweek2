@@ -58,7 +58,7 @@ nav {
     left: 150px;
 }
 .page4 {
-  background-color: #649549;
+  background-color: #C9ECB5;
   height: 500px;
   width: 1100px;
   position: relative;
@@ -66,8 +66,16 @@ nav {
   left: 150px;   
 }
 .page5 {
-    background-color: #C9ECB5;
+    background-color: #FFD77C;
     height: 500px;
+    width: 1100px;
+    position: relative;
+    top: 560px;
+    left: 150px;   
+  }
+  .footer {
+    background-color: #C9ECB5;
+    height: 200px;
     width: 1100px;
     position: relative;
     top: 560px;
