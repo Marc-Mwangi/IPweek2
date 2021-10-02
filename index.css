@@ -15,3 +15,7 @@ nav li {
     margin-left: 80px;
     margin-top: 70px;
 }
+#title {
+    text-align: center;
+    font-family: Arial ;
+}
