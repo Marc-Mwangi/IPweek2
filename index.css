@@ -69,7 +69,8 @@ nav {
   width: 1100px;
   position: relative;
   bottom: 20px;
-  left: 150px;   
+  left: 150px;  
+  z-index: -5; 
 }
 .page5 {
     background-color: #FFD77C;
@@ -143,8 +144,28 @@ nav {
     position: relative;
     left: 500px;
 }
-.page4>div>img {
+#beverage {
     position: relative;
     bottom: 150px;
+    left: 40px;
 }
-    
+#burger {
+    position: relative;
+    bottom: 510px;
+    left: 70px;
+}
+.page4>div>img {
+    display: inline;
+}
+#content4 {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 600px;
+ }
+ #content4>h1 {
+    color: #9ee475;
+}
+#content4>p {
+    text-align: center;
+}
