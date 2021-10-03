@@ -264,3 +264,8 @@ nav {
     top: 150px;
     left: 130px;
 }
+#content1>p>a {
+    padding: 15px;
+    background-color: #649549;
+    border-radius: 30%;
+}
