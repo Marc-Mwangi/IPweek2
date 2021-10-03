@@ -53,12 +53,14 @@ nav {
     left: 150px;
     float: left;
 }
+.page2 {
+    height: 600px;
+}
 .page3 {
     background-color: rgb(223, 230,224);
     height: 500px;
     width: 1100px;
     position: relative;
-    top: 600px;
     left: 150px;
 }
 .page4 {
@@ -66,7 +68,7 @@ nav {
   height: 500px;
   width: 1100px;
   position: relative;
-  top: 580px;
+  bottom: 20px;
   left: 150px;   
 }
 .page5 {
@@ -74,15 +76,14 @@ nav {
     height: 500px;
     width: 1100px;
     position: relative;
-    top: 560px;
-    left: 150px;   
+    left: 150px;  
+    bottom: 40px; 
   }
   .footer {
     background-color: rgb(223, 230,224);
     height: 200px;
     width: 1100px;
     position: relative;
-    top: 560px;
     left: 150px;   
   }
 #content1 {
@@ -91,5 +92,25 @@ nav {
     position: relative;
     bottom: 500px;
     left: 70px;
+}
+.head1 {
+    display: inline;
+    color: #9ee475;
+}
+.head2 {
+    display: inline-block;
+    color: #FFD77C;
+
+}
+#content2 {
+    height: 350px;
+    width: 350px;
+    position: relative;
+    left: 800px;
+    bottom: 250px;
+    text-align: center
+}
+.head3{
+    color: #FFD77C;
 }
     
