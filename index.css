@@ -119,8 +119,8 @@ nav {
     background-color: whitesmoke;
     display: inline-block;
     position: relative;
-    top: 100px;
-    left: 80px;
+    top: 10px;
+    left: 50px;
     margin: 20px;
     overflow: visible;
     border-bottom-right-radius: 50%;
@@ -131,5 +131,20 @@ nav {
     top: 60px;
     right: 30px;
     
+}
+.head4 {
+    display: inline;
+}
+.head5 {
+    display: inline-block;
+    color: #9ee475;
+}
+.head4 , .head5{
+    position: relative;
+    left: 500px;
+}
+.page4>div>img {
+    position: relative;
+    bottom: 150px;
 }
     
