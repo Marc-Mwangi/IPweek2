@@ -32,6 +32,7 @@ nav li {
     top: -190px;
     left: 300px;
     z-index: -1;
+    overflow: hidden;
 }
 header {
     z-index: 4;
@@ -221,4 +222,45 @@ nav {
     height: 200px;
     bottom: 430px;
     left: 700px;
+}
+#content1>img {
+    position: relative;
+    left: 800px;
+    bottom: 50px;
+    height: 250px;
+    width: 250px;
+}
+#curve2 {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    border-radius: 100%;
+    border: 5px dashed #649549;
+    position: relative;
+    top: 200px;
+}
+#banner2 {
+    position: relative;
+    top: 170px;
+    right: 40px;
+}
+#banner3 {
+    position: relative;
+    top: 40px;
+    right: 60px;
+}
+#banner4 {
+    position: relative;
+    left: 40px;
+    bottom: 40px;
+}
+#banner5 {
+    position: relative;
+    left: 150px;
+    top: 40px;
+}
+#banner6 {
+    position: relative;
+    top: 150px;
+    left: 130px;
 }
