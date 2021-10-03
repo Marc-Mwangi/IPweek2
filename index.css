@@ -129,7 +129,7 @@ nav {
 
 #top>div>img , #bottom>div>img {
     position: relative;
-    top: 60px;
+    bottom: 20px;
     right: 30px;
     
 }
@@ -153,6 +153,14 @@ nav {
     position: relative;
     bottom: 510px;
     left: 70px;
+}
+#top> div > p , #bottom> div> p {
+    text-align: center;
+    position: relative;
+    height: 10px;
+    width: 100px;
+    left: 100px;
+    bottom: 30px;
 }
 .page4>div>img {
     display: inline;
