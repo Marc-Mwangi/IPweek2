@@ -113,9 +113,15 @@ nav {
 .head3{
     color: #FFD77C;
 }
-#top>div {
+#top>div , #bottom>div {
     height: 150px;
     width: 300px;
     background-color: whitesmoke;
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    left: 80px;
+    margin: 10px;
 }
+
     
