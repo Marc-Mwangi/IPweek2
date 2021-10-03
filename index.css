@@ -121,9 +121,9 @@ nav {
     position: relative;
     top: 100px;
     left: 80px;
-<<<<<<< HEAD
     margin: 20px;
     overflow: visible;
+    border-bottom-right-radius: 50%;
 }
 
 #top>div>img , #bottom>div>img {
@@ -133,9 +133,3 @@ nav {
     
 }
     
-=======
-    
-}
-
-    
->>>>>>> 4d99502a3268e62c225cd67823000ceb480f23ee
