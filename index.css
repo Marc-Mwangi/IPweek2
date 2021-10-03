@@ -243,7 +243,7 @@ nav {
 #content1>img {
     position: relative;
     left: 800px;
-    bottom: 50px;
+    bottom: 170px;
     height: 250px;
     width: 250px;
 }
@@ -308,4 +308,5 @@ nav>ul>li>a {
 }
 nav>ul>li>a:hover {
     color: #FFD77C;
+
 }
