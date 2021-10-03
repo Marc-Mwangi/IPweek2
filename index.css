@@ -121,6 +121,14 @@ nav {
     position: relative;
     top: 100px;
     left: 80px;
+    margin: 20px;
+    overflow: visible;
 }
 
+#top>div>img , #bottom>div>img {
+    position: relative;
+    top: 60px;
+    right: 30px;
+    
+}
     
