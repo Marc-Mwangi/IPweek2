@@ -310,3 +310,10 @@ nav>ul>li>a:hover {
     color: #FFD77C;
 
 }
+.footer>a {
+    position: relative;
+    bottom: 550px;
+    left: 950px;
+    padding: 8px;
+    background-color: #649549;
+}
