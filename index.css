@@ -301,3 +301,11 @@ input[type=email]{
     bottom: 600px;
     left: 1000px;
 }
+nav>ul>li>a {
+    color: black;
+    font-family: 'Poppins';
+    font-size: 14px;
+}
+nav>ul>li>a:hover {
+    color: #FFD77C;
+}
