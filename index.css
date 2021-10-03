@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
 body {
     background-color: white;
 }
@@ -20,7 +21,7 @@ nav li {
 }
 #title {
     text-align: center;
-    font-family: 'Poppins-Black' ;
+    font-family: 'Poppins';
 }
 #curve {
     background-color: #C9ECB5;
@@ -97,7 +98,7 @@ nav {
     position: relative;
     bottom: 500px;
     left: 70px;
-    font-family: Poppins;
+    font-family: 'Poppins';
 }
 .head1 {
     display: inline;
@@ -189,16 +190,19 @@ nav {
 }
 .page5>form{
     position: relative;
-    left: 450px;
+    left: 350px;
     bottom: 100px;
 }
 .page5>a {
     position: relative;
     left: 530px;
     bottom: 70px;
+    width: 300px;
+    height: 100px;
     padding: 10px;
+    border: none;
     background-color: #649549;
-    border-radius: 20%;
+    border-radius: 20px;
 
 }
 .content6 {
@@ -269,5 +273,20 @@ nav {
 #content1>p>a {
     padding: 15px;
     background-color: #649549;
-    border-radius: 30%;
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+}
+input[type=email]{
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    padding-left: 20px;
+    border: none;
+    background-color: white;
+}
+.footer>img{
+    position: relative;
+    bottom: 600px;
+    left: 1000px;
 }
